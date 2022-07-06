@@ -1,0 +1,15 @@
+NO patterns/green.xpm
+SO patterns/blue.xpm
+WE patterns/purple.xpm
+EA patterns/red.xpm
+
+F 220,100,100
+C 225,200,210
+
+111111011111
+100000100001
+100000000001
+100000000010
+010000000001
+100001000001
+111110111111
