@@ -15,7 +15,7 @@ To make sure you understand them, let’s re-implement them!_
 
 • For each container, turn in the appropriately named class files.
 
-## _Allowed/Forbidden_
+## _Allowed/ Forbidden_
 
 • You are allowed to use everything from the standard library. Thus, instead of
 sticking to what you already know, it would be smart to use as much as possible
