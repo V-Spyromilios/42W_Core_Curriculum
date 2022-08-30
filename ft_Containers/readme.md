@@ -110,3 +110,6 @@ Test your containers with: `ft::<container>`.
 # **Tests PrintScreens**
 
 ![Performance](Performance.png?raw=true)
+![Test1](Test1.png?raw=true)
+![Test2](Test2.png?raw=true)
+![Test3](Test3.png?raw=true)
