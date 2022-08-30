@@ -105,3 +105,8 @@ Compare outputs and performance / timing (your containers can be up to 20
 times slower).
 
 Test your containers with: `ft::<container>`.
+
+
+# **Tests PrintScreens**
+
+![Performance](Performance.png?raw=true)
